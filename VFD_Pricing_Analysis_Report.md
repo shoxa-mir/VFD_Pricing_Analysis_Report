@@ -144,44 +144,7 @@ This report analyzes the pricing strategy for Video Fire Detection (VFD) systems
 
 **Key Finding**: With the $160K target, multiple scenarios now achieve profitability, including 200+ camera feature-based pricing and all software-based pricing models.
 
-#### For Small-Medium Facilities (100-200 cameras)
-- **Primary Strategy**: Software-based pricing with type_12 servers
-- **Rationale**: Maximum revenue and profit margins
-- **Monthly Revenue**: $17,750 - $21,083
-- **Profit Achievement**: $213K-$253K (133%-158% of target)
-
-#### For Large Facilities (300+ cameras)
-- **Primary Strategy**: Software-based pricing with type_12 servers for maximum profit ($293K)
-- **Alternative**: Feature-based pricing acceptable ($245K profit, 153% of target)
-- **Benefit**: Both models exceed profit target, allows competitive flexibility
-- **Profit Achievement**: $245K-$293K (153%-183% of target)
-
-#### Market Positioning
-- **Premium Tier**: Software-based pricing for high-value customers
-- **Competitive Tier**: Feature-based pricing for price-sensitive markets
-- **Volume Tier**: Custom pricing for 300+ camera deployments
-
----
-
-## Cost Structure Breakdown
-
-### Fixed Costs (All Projects)
-- **Installation**: $5,000 per project
-- **VAT**: Calculated on total project value
-
-### Variable Costs
-- **Hardware**: $5,180 (type_12) / $6,720 (type_16) per server
-- **Software**: Varies by pricing model and deployment scale
-
----
-
-## Conclusion
-
-The analysis reveals that **software-based pricing with type_12 servers** delivers optimal financial performance across most deployment scenarios. However, feature-based pricing offers strategic value for large-scale deployments and competitive positioning.
-
-**Recommended Approach**: Implement a dual-pricing strategy allowing customers to choose based on their preferences for cost predictability versus overall value optimization.
-
----
 
 *Report Generated: 2025-09-10*  
+*AEYEON Inc.*  
 *Source: VFD System Pricing Policy Analysis*
