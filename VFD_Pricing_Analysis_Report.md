@@ -138,9 +138,11 @@ This report analyzes the pricing strategy for Video Fire Detection (VFD) systems
 - ✅ **300 cameras (type_12)**: ~$245K profit (153% of target) - 300 cameras (25 servers/ $16,500 each)
 - ❌ **100 cameras (type_16)**: ~$80K profit (50% of target) - 100 cameras (9 servers/ $20,000 each) (works only if for 6 months)
 - 🟧 **200 cameras (type_16)**: ~$148K profit (93% of target) - 200 cameras (17 servers/ $20,000 each)
-- ✅ **300 cameras (type_16)**: ~$217K profit (135% of target) - 300 cameras (25 servers/ $20,000 each)
+- ✅ **300 cameras (type_16)**: ~$217K profit (135% of target) - 300 cameras (25 servers/ $20,000 each) (can offer ulto 5% discount) 
 
 **<u>Additional discount if have server PC and IP Speaker: 2300$/per project for type_12, and 3100$/per project for type_16</u>**
+
+**Key Consideration:** on either case we need at least 30/70 ratio (prepaid/postpaid)
 
 **Key Finding**: With the $160K target, multiple scenarios now achieve profitability, including 200+ camera feature-based pricing and all software-based pricing models.
 
