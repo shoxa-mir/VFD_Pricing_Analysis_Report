@@ -1,4 +1,4 @@
-# VFD System Pricing Policy Analysis Report
+# VAIM System Pricing Policy Analysis Report
 
 ## Executive Summary
 
